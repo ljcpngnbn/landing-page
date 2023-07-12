@@ -140,3 +140,41 @@ main h2 {
     font-weight: 100;
     color: #1F2937;
 }
+
+.sign-up {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5em;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 3em;
+    width: 75%;
+}
+
+.right button {
+    background-color: #3882F6;
+    border-radius: 8px;
+    width: 120px;
+    padding: 6px 1em;
+    color: #E5E7EB;
+    border: 2px solid #FFF;
+}
+
+strong {
+    color: #F9FAF8;
+    font-size: 22px;
+}
+  
+footer {
+    text-align: center;
+    background-color: #1F2937;
+    color: #FFF;
+    padding: 2em;
+}
